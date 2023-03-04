@@ -62,6 +62,8 @@ After you're finished please remove all the comments and instructions!
 
 **[hello_rails_back_end]** is a Ruby on Rails API that allows users to create and manage their own events. It is the back-end of the [hello_react_front_end] project.
 
+#[hello_react_front_end](https://github.com/OmarMWarraich/hello-react-front-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
